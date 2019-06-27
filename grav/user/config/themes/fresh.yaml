@@ -1,0 +1,23 @@
+streams:
+  schemes:
+    theme:
+      type: ReadOnlyStream
+      prefixes:
+        '': [user/themes/fresh, user/themes/haywire]
+dropdown:
+  enabled: true
+sidebar:
+  enabled: '1'
+reference_bulma: true
+logo:
+  user/themes/fresh/assets/images/logos/r.png:
+    name: r.png
+    type: image/png
+    size: 274909
+    path: user/themes/fresh/assets/images/logos/r.png
+favicon:
+  user/themes/fresh/assets/images/favicon/favicon.png:
+    name: favicon.png
+    type: image/png
+    size: 15283
+    path: user/themes/fresh/assets/images/favicon/favicon.png

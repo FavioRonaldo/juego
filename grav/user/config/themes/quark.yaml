@@ -1,0 +1,24 @@
+enabled: true
+production-mode: true
+grid-size: grid-lg
+header-fixed: true
+header-animated: true
+header-dark: true
+header-transparent: false
+sticky-footer: true
+blog-page: /blog
+spectre:
+  exp: false
+  icons: false
+custom_logo:
+  user/themes/quark/images/logo/foy_1.svg:
+    name: foy_1.svg
+    type: image/svg+xml
+    size: 16929
+    path: user/themes/quark/images/logo/foy_1.svg
+custom_logo_mobile:
+  user/themes/quark/images/logo/foy_1.svg:
+    name: foy_1.svg
+    type: image/svg+xml
+    size: 16929
+    path: user/themes/quark/images/logo/foy_1.svg
